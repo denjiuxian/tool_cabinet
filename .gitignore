@@ -1,2 +1,12 @@
 # Project exclude paths
 /target/
+/.idea/sonarlint/
+/.idea/.gitignore
+/.idea/compiler.xml
+/.idea/encodings.xml
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/.idea/runConfigurations.xml
+/.idea/vcs.xml
+/HELP.md
+/.idea/
